@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.griddynamics.pmo:pm-clients-expense:1.93.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/griddynamics/pmo/pm-clients-expense/1.93.0-SNAPSHOT/pm-clients-expense-1.93.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/griddynamics/pmo/pm-clients-expense/1.93.0-SNAPSHOT/pm-clients-expense-1.93.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/griddynamics/pmo/pm-clients-expense/1.93.0-SNAPSHOT/pm-clients-expense-1.93.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

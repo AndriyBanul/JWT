@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/Telegram Desktop/tools-expenses-backend/expenses-containers/expenses-backend-container/expenses-backend-container.iml" filepath="$PROJECT_DIR$/../Downloads/Telegram Desktop/tools-expenses-backend/expenses-containers/expenses-backend-container/expenses-backend-container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/Telegram Desktop/tools-expenses-backend/expenses-containers/expenses-backend-containers.iml" filepath="$PROJECT_DIR$/../Downloads/Telegram Desktop/tools-expenses-backend/expenses-containers/expenses-backend-containers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/Telegram Desktop/tools-expenses-backend/expenses-domain/expenses-domain.iml" filepath="$PROJECT_DIR$/../Downloads/Telegram Desktop/tools-expenses-backend/expenses-domain/expenses-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/Telegram Desktop/tools-expenses-backend/expenses-parent.iml" filepath="$PROJECT_DIR$/../Downloads/Telegram Desktop/tools-expenses-backend/expenses-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/Telegram Desktop/tools-expenses-backend/expenses-service/expenses-service.iml" filepath="$PROJECT_DIR$/../Downloads/Telegram Desktop/tools-expenses-backend/expenses-service/expenses-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/Telegram Desktop/tools-expenses-backend/expenses-web/expenses-web.iml" filepath="$PROJECT_DIR$/../Downloads/Telegram Desktop/tools-expenses-backend/expenses-web/expenses-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/jwt.iml" filepath="$PROJECT_DIR$/jwt.iml" />
     </modules>
   </component>

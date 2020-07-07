@@ -8,14 +8,28 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jwt" />
+        <module name="expenses-backend-container" />
+        <module name="expenses-domain" />
+        <module name="expenses-service" />
+        <module name="expenses-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="expenses-backend-container" target="1.8" />
+      <module name="expenses-backend-containers" target="1.8" />
+      <module name="expenses-domain" target="1.8" />
+      <module name="expenses-parent" target="1.8" />
+      <module name="expenses-service" target="1.8" />
+      <module name="expenses-web" target="1.8" />
       <module name="jwt" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="expenses-backend-container" options="-parameters" />
+      <module name="expenses-domain" options="-parameters" />
+      <module name="expenses-service" options="-parameters" />
+      <module name="expenses-web" options="-parameters" />
       <module name="jwt" options="-parameters" />
     </option>
   </component>
